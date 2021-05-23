@@ -7,7 +7,7 @@
 - 🌱 I’m interested in collaboration on projects that can help monitor and mitigate health
   issues in less privileged communities (pro-active healthcare).
   
-- 📫 How to reach me: isaac@hmisafrica.com || i.afara@synergyhealth.com
+- 📫 How to reach me: isaac.afara@synergyhealthdigital.com || isaac@hmisafrica.com
 
 <!---
 synergy-health-admin/synergy-health-admin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
